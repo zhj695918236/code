@@ -40,3 +40,7 @@ func main() {
 func testgit() string{
 	return ""
 }
+
+func sssss(){
+	fmt.Println("0000000")
+}
