@@ -35,6 +35,7 @@ func main() {
 
 	mark.SayHi()
 	sam.SayHi()
+	fmt.Println()
 }
 
 func testgit() string{
