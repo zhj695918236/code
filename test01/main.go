@@ -36,3 +36,7 @@ func main() {
 	mark.SayHi()
 	sam.SayHi()
 }
+
+func testgit() string{
+	return ""
+}
