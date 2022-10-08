@@ -44,3 +44,7 @@ func testgit() string{
 func sssss(){
 	fmt.Println("0000000")
 }
+
+func aaaa()  {
+	
+}
